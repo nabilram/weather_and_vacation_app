@@ -1,5 +1,7 @@
-# ignore config file
-config.py 
+# ignore files
+config.py
+API_practice.ipynb
+random_practice.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
