@@ -3,7 +3,8 @@ config.py
 API_practice.ipynb
 random_practice.ipynb
 
-
+#ignore practice folder
+weather_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
