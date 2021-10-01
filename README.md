@@ -1,4 +1,4 @@
-# weather_and_vacation_analytics
+# weather_and_vacation_app
 
 ## The Weather_Database folder has the following:
 
