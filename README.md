@@ -10,12 +10,12 @@
 * [The Vacation_Search.ipynb file](https://github.com/nabilram/world_climate_analytics/blob/main/vacation_search/vacation_search.ipynb)
 * [The WeatherPy_vacation.csv file](https://github.com/nabilram/world_climate_analytics/blob/main/vacation_search/WeatherPy_Vacation.csv)
 * The WeatherPy_vacation_map.png image
-* ![The WeatherPy_vacation_map.png image](https://github.com/nabilram/world_climate_analytics/blob/main/vacation_search/WeatherPy_vacation_map.PNG)
+![The WeatherPy_vacation_map.png image](https://github.com/nabilram/world_climate_analytics/blob/main/vacation_search/WeatherPy_vacation_map.PNG)
 
 ## The Vacation_Itinerary folder has the following:
 
 * [The Vacation_Itinerary.ipynb file](https://github.com/nabilram/world_climate_analytics/blob/main/vacation_itinerary/vacation_itinerary.ipynb)
 * The WeatherPy_travel_map.png image
-* ![The WeatherPy_travel_map.png image](https://github.com/nabilram/world_climate_analytics/blob/main/vacation_itinerary/WeatherPy_travel_map.PNG)
+![The WeatherPy_travel_map.png image](https://github.com/nabilram/world_climate_analytics/blob/main/vacation_itinerary/WeatherPy_travel_map.PNG)
 * The WeatherPy_travel_map_markers.png image
-* ![The WeatherPy_travel_map_markers.png image](https://github.com/nabilram/world_climate_analytics/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.PNG)
+![The WeatherPy_travel_map_markers.png image](https://github.com/nabilram/world_climate_analytics/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.PNG)
