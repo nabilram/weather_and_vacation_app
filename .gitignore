@@ -2,6 +2,9 @@
 config.py
 API_practice.ipynb
 random_practice.ipynb
+heatmap.ipynb
+vacation_py.ipynb
+weatherpy.ipynb
 
 #ignore practice folder
 weather_data/
